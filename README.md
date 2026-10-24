@@ -1,3 +1,4 @@
+HEAD
 # 🌱 Will My Plant Survive Me?
 
 > **A playful, botanical machine learning app that predicts whether your houseplants will Thrive, Survive, or meet their Doom based on your actual care habits.**
@@ -113,3 +114,6 @@ Deploy your working app for free in less than 3 minutes:
 ## ⚠️ Disclaimer
 
 This is a **fun toy machine learning model** built for educational and demonstration purposes. It does not replace real horticultural expertise or diagnosing diseased foliage. Please do not blame this app if your fern decides to give up on life anyway!
+# ML_repo
+Will My Plant Survive Me ML Web App
+ 89745deed8334447a7094fe80ddc7b6d5c55ce09
